@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-326-fix-contracts-implement-storage-challengers",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-326-fix-contracts-implement-storage-challengers": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-326-fix-contracts-implement-storage-challengers",
+    "origin"
+  ]
+}
